@@ -1,0 +1,4 @@
+
+# Large ML artifacts
+outputs/**/*.parquet
+outputs/*.parquet
