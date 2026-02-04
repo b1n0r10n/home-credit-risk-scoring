@@ -1,0 +1,9 @@
+table,rows,cols,mem_mb
+bureau_balance,27299925,3,1926.61
+previous_app,1670214,37,1900.63
+pos_cash,10001358,8,1137.25
+credit_card,3840312,23,875.69
+installments,13605401,8,830.41
+app_train,307511,122,536.69
+bureau,1716428,17,512.11
+app_test,48744,121,84.74

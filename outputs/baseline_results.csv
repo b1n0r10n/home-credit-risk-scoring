@@ -1,0 +1,3 @@
+model,roc_auc
+Logistic Regression (baseline),0.7497935653932118
+Random Forest (baseline),0.7461084359414696

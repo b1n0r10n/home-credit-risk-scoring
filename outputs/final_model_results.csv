@@ -1,0 +1,3 @@
+model,auc
+HistGradientBoosting,0.7738988192026702
+Logistic Regression,0.7629101898581377

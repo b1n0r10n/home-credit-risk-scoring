@@ -1,0 +1,3 @@
+model,roc_auc_valid
+HistGradientBoosting,0.7728621842871446
+Logistic Regression,0.7619098164137893
