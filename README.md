@@ -77,7 +77,7 @@ Before running this project, ensure you have installed:
 1.  **Clone the Repository** (if using git):
 
     ```bash
-    git clone https://github.com/username/project-repo.git
+    git clone https://github.com/b1n0r10n/home-credit-risk-scoring.git
     cd project-repo
     ```
 
